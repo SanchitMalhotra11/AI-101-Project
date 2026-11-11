@@ -6,12 +6,12 @@ Classifying banknotes as **genuine** or **fake** from six geometric measurements
 
 ## 1. Team & Roles
 
-| Entry No. | Student Name | Email Address | Contact No. | Assigned Lead Role | GitHub Handle |
-| --------- | ------------ | ------------- | ----------- | ------------------ | ------------- |
-| _fill in_ | _fill in_    | _fill in_     | _fill in_   | PPT Lead           | _fill in_     |
-| _fill in_ | _fill in_    | _fill in_     | _fill in_   | Execution Lead     | _fill in_     |
-| _fill in_ | _fill in_    | _fill in_     | _fill in_   | Documentation Lead | _fill in_     |
-| _fill in_ | _fill in_    | _fill in_     | _fill in_   | Video Lead         | _fill in_     |
+| Entry No. |    Student Name    |    Email Address       | Contact No. | Assigned Lead Role | GitHub Handle    |
+| --------- | -----------------  | ---------------------- | ----------- | ------------------ | ---------------- |
+|2026MCB1563|  SANCHIT MALHOTRA  |2026MCB1563@iitrpr.ac.in| 9958026011  | Execution Lead     | SanchitMalhotra11|
+|2026AIB1020|       ARPIT        |2026AIB1020@iitrpr.ac.in| 7982187771  | Documentation Lead | arpitiitrpr0307  |
+|2026ESB1490|RAJGURU GOURAV BABAN|2026ESB1490@iitrpr.ac.in| 9607015997  |    Video Lead      | 2026esb1490-code | 
+|2026EEB1363|  KAVISHA JAISWARA  |2026ESB1490@iitrpr.ac.in| 8979016844  |    PPT Lead        | kavishajaiswara  |
 
 *All members actively contributed code, data preprocessing analysis, model testing, and documentation.*
 
