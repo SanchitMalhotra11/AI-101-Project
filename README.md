@@ -139,11 +139,11 @@ After running, embed them here, e.g. `![Confusion Matrix](results/plots/confusio
 
 | Metric | Value |
 | ------ | ----- |
-| Accuracy | _fill in_ |
-| Precision | _fill in_ |
-| Recall | _fill in_ |
-| F1 | _fill in_ |
-| ROC-AUC | _fill in_ |
+| Accuracy |0.9900 |
+| Precision|0.9900 |
+| Recall   |0.9950 |
+|    F1    |0.9925 |
+| ROC-AUC  |0.9995 |
 
 ---
 
