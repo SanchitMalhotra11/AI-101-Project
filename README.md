@@ -185,7 +185,8 @@ for metric, value in metrics.items():
 ## 8. Links & Resources
 
 - **Dataset:** https://www.kaggle.com/datasets/alexandrepetit881234/fake-bills
-- **Presentation Slides (PDF):** `docs/Team_Presentation_Slides.pdf` _(add)_
+- **Presentation Slides (PDF):** [Fake_Bill_Detection.pdf](https://github.com/user-attachments/files/34855742/Fake_Bill_Detection.pdf)
+
 - **Video Demonstration:** _(link to be added)_
 
 ---
