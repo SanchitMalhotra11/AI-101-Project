@@ -192,5 +192,6 @@ for metric, value in metrics.items():
 
 ## 9. AI-Use Disclosure
 
-- **Member 1:** _tool used and what for_
-- **Member 2:** _tool used and what for_
+- Used AI to help build the PPT
+- Used AI for guidance on video editing
+- Used AI to help build Github repo , pushing and pull changes
