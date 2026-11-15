@@ -75,7 +75,7 @@ Run these commands in order from the repository root:
 1. **Clone the repository:**
 
    ```
-   git clone <https://share.google/wEieNEqzsHUtZt0qS>
+   git clone "https://share.google/wEieNEqzsHUtZt0qS"
    cd AI-101-Projecf
    ```
 
