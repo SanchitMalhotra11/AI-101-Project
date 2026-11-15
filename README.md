@@ -75,8 +75,8 @@ Run these commands in order from the repository root:
 1. **Clone the repository:**
 
    ```
-   git clone "https://share.google/wEieNEqzsHUtZt0qS"
-   cd AI-101-Projecf
+   git clone "https://github.com/SanchitMalhotra11/AI-101-Project"
+   cd AI-101-Project
    ```
 
 2. **Create and activate a virtual environment:**
