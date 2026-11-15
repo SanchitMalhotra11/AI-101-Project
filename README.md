@@ -75,8 +75,8 @@ Run these commands in order from the repository root:
 1. **Clone the repository:**
 
    ```
-   git clone <your-repo-url>
-   cd Fake-bills-detection
+   git clone "https://github.com/SanchitMalhotra11/AI-101-Project"
+   cd "AI-101-Project"
    ```
 
 2. **Create and activate a virtual environment:**
@@ -185,12 +185,14 @@ for metric, value in metrics.items():
 ## 8. Links & Resources
 
 - **Dataset:** https://www.kaggle.com/datasets/alexandrepetit881234/fake-bills
-- **Presentation Slides (PDF):** `docs/Team_Presentation_Slides.pdf` _(add)_
+- **Presentation Slides (PDF):** [Fake_Bill_Detection.pdf](https://github.com/user-attachments/files/34855742/Fake_Bill_Detection.pdf)
+
 - **Video Demonstration:** _(link to be added)_
 
 ---
 
 ## 9. AI-Use Disclosure
 
-- **Member 1:** _tool used and what for_
-- **Member 2:** _tool used and what for_
+- Used AI to help build the PPT
+- Used AI for guidance on video editing
+- Used AI to help build Github repo , pushing and pull changes
