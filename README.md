@@ -1,4 +1,4 @@
-# Machine Learning-Based Detection of Fake Bills
+# Logistic regression-Based Detection of Fake Bills
 
 A machine learning project that classifies banknotes as **Genuine** or **Fake** using six geometric measurements and Logistic Regression. The project uses Python, Pandas, NumPy, Matplotlib, Seaborn and Scikit-learn.
 
