@@ -75,8 +75,8 @@ Run these commands in order from the repository root:
 1. **Clone the repository:**
 
    ```
-   git clone <your-repo-url>
-   cd Fake-bills-detection
+   git clone <https://share.google/wEieNEqzsHUtZt0qS>
+   cd AI-101-Projecf
    ```
 
 2. **Create and activate a virtual environment:**
